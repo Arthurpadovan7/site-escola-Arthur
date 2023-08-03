@@ -1,6 +1,6 @@
 body{
 
-    background-color: rgb(233, 117, 117); 
+    background-color: rgb(243, 184, 213); 
 }
 
 em{
@@ -11,4 +11,8 @@ em{
 };
 ol{
     color: black;
+}
+img{
+
+    width: 500px;
 }
