@@ -1,6 +1,6 @@
 body{
 
-    background-color: rgb(255, 208, 0); 
+    background-color: rgb(243, 184, 213); 
 }
 
 em{
@@ -14,12 +14,5 @@ ol{
 }
 img{
 
-    width: 200px;
+    width: 500px;
 }
- table{ 
- background-color: rgb(255, 77, 77);
-    color: rgb(0, 0, 0);
- }
- title{
-     padding: 250px;
- }
