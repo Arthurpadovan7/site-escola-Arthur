@@ -1,4 +1,13 @@
 body{
 
-    background-color: rgb(253, 195, 6);
+    background-color: rgb(250, 206, 61);
+}
+
+table{
+
+background-color: rgb(255, 255, 255);
+}
+ 
+.frango{
+    width: 300px;
 }
